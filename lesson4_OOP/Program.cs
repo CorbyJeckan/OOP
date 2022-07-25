@@ -10,6 +10,7 @@ namespace lesson4_OOP
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
